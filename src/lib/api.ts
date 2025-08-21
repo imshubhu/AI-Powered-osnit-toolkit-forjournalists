@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'http://localhost:8080/api',
+  baseURL: 'https://ai-powered-osnit-toolkit-for-journalist.onrender.com/api',
 });
 
 export const searchNews = async (query: string) => {
@@ -46,4 +46,5 @@ export const analyzeDocumentIntelligence = async (document: File) => {
   form.append('document', document)
   const res = await API.post('/documents/analyze', form);
   return res.data;
+
 };
