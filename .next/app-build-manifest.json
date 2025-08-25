@@ -1,0 +1,71 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-c717c2a0d14e84bf.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-2f7efdee1eec2671.js",
+      "static/chunks/app/_not-found/page-7613219de9a5917a.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-c717c2a0d14e84bf.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-2f7efdee1eec2671.js",
+      "static/css/c63184cd1130c419.css",
+      "static/chunks/352-5d3859615a8e7bef.js",
+      "static/chunks/379-299d7c679d1aedbe.js",
+      "static/chunks/app/layout-f428e660b540fc3d.js"
+    ],
+    "/entities/page": [
+      "static/chunks/webpack-c717c2a0d14e84bf.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-2f7efdee1eec2671.js",
+      "static/chunks/464-6a020d149256888a.js",
+      "static/chunks/app/entities/page-0483789ac290c2dc.js"
+    ],
+    "/fakeImage/page": [
+      "static/chunks/webpack-c717c2a0d14e84bf.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-2f7efdee1eec2671.js",
+      "static/chunks/464-6a020d149256888a.js",
+      "static/chunks/352-5d3859615a8e7bef.js",
+      "static/chunks/app/fakeImage/page-c12676c1cd9a0d6e.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-c717c2a0d14e84bf.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-2f7efdee1eec2671.js",
+      "static/chunks/464-6a020d149256888a.js",
+      "static/chunks/352-5d3859615a8e7bef.js",
+      "static/chunks/411-63caaaf44dadbc0f.js",
+      "static/chunks/app/page-64f672332f40c45d.js"
+    ],
+    "/fakeNews/page": [
+      "static/chunks/webpack-c717c2a0d14e84bf.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-2f7efdee1eec2671.js",
+      "static/chunks/464-6a020d149256888a.js",
+      "static/chunks/app/fakeNews/page-42aee783c91e0e2e.js"
+    ],
+    "/test/page": [
+      "static/chunks/webpack-c717c2a0d14e84bf.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-2f7efdee1eec2671.js",
+      "static/chunks/app/test/page-864ab6bee0fe4d96.js"
+    ],
+    "/document/page": [
+      "static/chunks/webpack-c717c2a0d14e84bf.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-2f7efdee1eec2671.js",
+      "static/chunks/464-6a020d149256888a.js",
+      "static/chunks/app/document/page-d80f29b370f55d2e.js"
+    ]
+  }
+}
